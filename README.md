@@ -11,6 +11,6 @@
 1. Вся загрузка должна происходить через хук useEffect. Подумайте, как организовать единоразовую загрузку и загрузку при каждом изменении props.info.id.
 2. Обратите внимание, загрузка деталей должна происходить только при изменении props.info.id, а не при каждом рендере. То есть если на одного и того же пользователя кликнуть дважды, то загрузка произойдёт только в первый раз.
 
-**Project Sample**  
+**Project Sample** [![Build status](https://ci.appveyor.com/api/projects/status/445ksf1c12l8bp0o?svg=true)](https://ci.appveyor.com/project/Gronik4/react8-1hooks-cont-ue) 
 
-[Посмотреть результат]
+[Посмотреть результат](https://gronik4.github.io/react8.1hooks.cont-ue/)
